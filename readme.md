@@ -36,12 +36,12 @@
 		 
 		 5. If classpath already exists, click on that -> click new -> add sqlite-jdbc path as mentioned above
 		 
-##Running Process
+##To Run 
  1. Open a command prompt in the project directory
  2. Enter the following command
  
-  >javac Start.java
-  >java Start
+ #$javac Start.java
+ #$java Start
 		 
 	
 		
